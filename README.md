@@ -1,0 +1,1 @@
+Used jdbc to fetch, insert, delete and update the table in SQL Database.
